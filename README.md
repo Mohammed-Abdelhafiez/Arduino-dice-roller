@@ -31,6 +31,10 @@
 - Pin 6 to buzzer (+)
 - GND through 100Ω resistor
 
+## 📷 Demo Image
+
+https://github.com/Mohammed-Abdelhafiez/Arduino-dice-roller/blob/main/dice_roller_hardware.jpg
+
 ## 🎮 Usage
 
 1. Power on the Arduino
